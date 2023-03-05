@@ -49,7 +49,7 @@ The following are some steps and functions I used to get the data into a good en
 ![](Superstore_Dashboard.png)
 ---
 -	Multiple pivot tables where used to summarize the data in preparation for visualization.
-![](Pivot_Tables.png)
+<img src="Pivot_Tables.png" width="200" height="300">
 -	From the dashboard, it is observed that it takes an average of 2 days for an ordered product to be shipped to the end user.
 -	Revenue is gotten the most on Fridays and Ontario recorded the highest amount of profits.
 -	Technological goods are sold more with corporate customers buying more goods.
