@@ -9,7 +9,7 @@ This was my second Excel data analysis project and the first one I was actually 
 -	Formulas
 - Pivot tables
 
-## PROJECT OBJECTIVE
+## PROJECT OBJECTIVES
 -	Determine how long it takes on average to ship an order
 -	Determine the most Profitable Age group
 -	Determine what day of the week brings in more sales
@@ -55,7 +55,7 @@ The following are some steps and functions I used to get the data into a good en
 -	Technological goods are sold more with corporate customers buying more goods.
 -	Pat has the best performance by the amount of sales and profits made.
 
-## RECOMMENDATION
+## RECOMMENDATIONS
 1.	The regional manager, Pat who presides over 4 regions should be considered for a promotion. Pat has made the most sales and profits for the business. The region, Ontario has made the most profits; one of Pat's regions.
 2.	More revenue is made on Fridays than every other day which suggests that regional managers should be on their toes during this time of the week.
 3.	Nunavut generates the least amount of profit for the business. Attention should be paid to that region in order to increase sales and profit there.
