@@ -1,5 +1,5 @@
 # Excel Super Store Analysis
-![](Cover_image.jpg)
+![Man in suit with hologram data analysis](Cover_image.jpg)
 ## INTRODUCTION
 This was my second Excel data analysis project and the first one I was actually proud of. I was given this dataset by a friend. The dataset comprised 3 different tables. Extraction, data cleaning and visualization were all done in Excel.
 
@@ -46,7 +46,7 @@ The following are some steps and functions I used to get the data into a good en
 -	Several other columns were derived using `IF()` statements/functions.
 
 ## DATA ANALYSIS AND VISUALIZATION
-![](Superstore_Dashboard.png)
+![Superstore Dashboard](Superstore_Dashboard.png)
 ---
 -	Multiple pivot tables where used to summarize the data in preparation for visualization.
 <img src="Pivot_Tables.png" width="200" height="300">
